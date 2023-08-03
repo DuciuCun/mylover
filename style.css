@@ -1,0 +1,11 @@
+img {
+    width: 300px;
+    height: 300px;
+    border: 10px solid red;
+}
+* {
+    margin-left: 10px;
+}
+#div2311 {
+    margin-right: 10px
+}
